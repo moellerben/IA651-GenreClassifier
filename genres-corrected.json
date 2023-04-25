@@ -1,0 +1,370 @@
+{
+    "Unknown genre": {
+        "count": 372,
+        "clean": "skip"
+    },
+    "Dance Pop": {
+        "count": 58,
+        "clean": "edm"
+    },
+    "Indie / Alternative": {
+        "count": 1159,
+        "clean": "alt"
+    },
+    "Alternative": {
+        "count": 917,
+        "clean": "alt"
+    },
+    "Indie Pop": {
+        "count": 86,
+        "clean": "pop"
+    },
+    "Rock": {
+        "count": 1563,
+        "clean": "rock"
+    },
+    "Indie Rock/Rock Pop": {
+        "count": 45,
+        "clean": "rock"
+    },
+    "Singer & Songwriter": {
+        "count": 45,
+        "clean": "alt"
+    },
+    "Folk": {
+        "count": 84,
+        "clean": "alt"
+    },
+    "Indie Rock": {
+        "count": 166,
+        "clean": "alt"
+    },
+    "Pop": {
+        "count": 1200,
+        "clean": "pop"
+    },
+    "Indie Pop/Folk": {
+        "count": 110,
+        "clean": "alt"
+    },
+    "Electro": {
+        "count": 424,
+        "clean": "edm"
+    },
+    "Films/Games": {
+        "count": 53,
+        "clean": "skip"
+    },
+    "Film Scores": {
+        "count": 50,
+        "clean": "skip"
+    },
+    "Classical": {
+        "count": 13,
+        "clean": "classical"
+    },
+    "Dance": {
+        "count": 690,
+        "clean": "edm"
+    },
+    "Rap/Hip Hop": {
+        "count": 321,
+        "clean": "hip hop"
+    },
+    "Metal": {
+        "count": 68,
+        "clean": "rock"
+    },
+    "Indie/ Alternative": {
+        "count": 1,
+        "clean": "alt"
+    },
+    "Dance-pop": {
+        "count": 1,
+        "clean": "edm"
+    },
+    "R&B": {
+        "count": 131,
+        "clean": "r&b"
+    },
+    "Country": {
+        "count": 58,
+        "clean": "country"
+    },
+    "Rock & Roll/Rockabilly": {
+        "count": 26,
+        "clean": "rock"
+    },
+    "Blues": {
+        "count": 56,
+        "clean": "r&b"
+    },
+    "Old School": {
+        "count": 1,
+        "clean": "skip"
+    },
+    "Hard Rock": {
+        "count": 45,
+        "clean": "rock"
+    },
+    "Soul & Funk": {
+        "count": 23,
+        "clean": "funk/soul"
+    },
+    "Contemporary Soul": {
+        "count": 5,
+        "clean": "funk/soul"
+    },
+    "Kids": {
+        "count": 8,
+        "clean": "skip"
+    },
+    "Disco": {
+        "count": 67,
+        "clean": "funk/soul"
+    },
+    "Musicals": {
+        "count": 6,
+        "clean": "skip"
+    },
+    "Reggae": {
+        "count": 5,
+        "clean": "skip"
+    },
+    "Comedy": {
+        "count": 2,
+        "clean": "skip"
+    },
+    "Jazz": {
+        "count": 63,
+        "clean": "jazz"
+    },
+    "Punk": {
+        "count": 304,
+        "clean": "rock"
+    },
+    "Metal & Hard Rock": {
+        "count": 242,
+        "clean": "rock"
+    },
+    "New Wave": {
+        "count": 63,
+        "clean": "skip"
+    },
+    "Progressive": {
+        "count": 22,
+        "clean": "skip"
+    },
+    "Miscellaneous": {
+        "count": 263,
+        "clean": "skip"
+    },
+    "Dubstep": {
+        "count": 21,
+        "clean": "edm"
+    },
+    "Breakbeat / Electro": {
+        "count": 79,
+        "clean": "edm"
+    },
+    "Singer-Songwriter": {
+        "count": 22,
+        "clean": "skip"
+    },
+    "Pop/Rock": {
+        "count": 20,
+        "clean": "rock"
+    },
+    "Contemporary Pop": {
+        "count": 99,
+        "clean": "pop"
+    },
+    "Synth Pop": {
+        "count": 24,
+        "clean": "pop"
+    },
+    "Techno/House": {
+        "count": 95,
+        "clean": "edm"
+    },
+    "International Pop": {
+        "count": 16,
+        "clean": "pop"
+    },
+    "Latin Music": {
+        "count": 4,
+        "clean": "skip"
+    },
+    "Trance": {
+        "count": 20,
+        "clean": "edm"
+    },
+    "Classic Rock": {
+        "count": 28,
+        "clean": "rock"
+    },
+    "Contemporary Hip Hop": {
+        "count": 19,
+        "clean": "hip hop"
+    },
+    "Soundtrack": {
+        "count": 82,
+        "clean": "skip"
+    },
+    "Alternative Metal": {
+        "count": 11,
+        "clean": "rock"
+    },
+    "Dancefloor": {
+        "count": 1,
+        "clean": "edm"
+    },
+    "Downtempo": {
+        "count": 3,
+        "clean": "skip"
+    },
+    "Mainstream Rock": {
+        "count": 28,
+        "clean": "rock"
+    },
+    "Progressive Rock": {
+        "count": 12,
+        "clean": "rock"
+    },
+    "Soul And R&B": {
+        "count": 1,
+        "clean": "funk/soul"
+    },
+    "Soul and R&B": {
+        "count": 15,
+        "clean": "funk/soul"
+    },
+    "0": {
+        "count": 23,
+        "clean": "skip"
+    },
+    "African Music": {
+        "count": 1,
+        "clean": "skip"
+    },
+    "Asian Music": {
+        "count": 1,
+        "clean": "skip"
+    },
+    "Contemporary R&B": {
+        "count": 1,
+        "clean": "r&b"
+    },
+    "Dirty South": {
+        "count": 19,
+        "clean": "skip"
+    },
+    "Bluegrass": {
+        "count": 1,
+        "clean": "country"
+    },
+    "Game Scores": {
+        "count": 1,
+        "clean": "skip"
+    },
+    "Chill Out/Trip-Hop/Lounge": {
+        "count": 1,
+        "clean": "edm"
+    },
+    "East Coast": {
+        "count": 1,
+        "clean": "skip"
+    },
+    "Drum & Bass": {
+        "count": 14,
+        "clean": "edm"
+    },
+    "Contemporary Country": {
+        "count": 13,
+        "clean": "country"
+    },
+    "Instrumental Jazz": {
+        "count": 1,
+        "clean": "jazz"
+    },
+    "Retrospective Pop": {
+        "count": 124,
+        "clean": "pop"
+    },
+    "Film": {
+        "count": 37,
+        "clean": "skip"
+    },
+    "World": {
+        "count": 10,
+        "clean": "skip"
+    },
+    "Top 40": {
+        "count": 1,
+        "clean": "pop"
+    },
+    "Hot 100": {
+        "count": 4,
+        "clean": "pop"
+    },
+    "Alternative Rock": {
+        "count": 13,
+        "clean": "rock"
+    },
+    "HOT 100": {
+        "count": 3,
+        "clean": "pop"
+    },
+    "House": {
+        "count": 1,
+        "clean": "edm"
+    },
+    "Pop / Rock": {
+        "count": 3,
+        "clean": "pop"
+    },
+    "Jazz / Soul & Funk": {
+        "count": 14,
+        "clean": "funk/soul"
+    },
+    "Jazz / Pop / Rock": {
+        "count": 1,
+        "clean": "pop"
+    },
+    "Jazz / Instrumental Jazz": {
+        "count": 3,
+        "clean": "jazz"
+    },
+    "Electro / Dance": {
+        "count": 3,
+        "clean": "edm"
+    },
+    "Jazz / R&B": {
+        "count": 1,
+        "clean": "jazz"
+    },
+    "Films/Games / Film Scores / TV Soundtracks": {
+        "count": 2,
+        "clean": "skip"
+    },
+    "Pop / Rock / Soul & Funk": {
+        "count": 1,
+        "clean": "pop"
+    },
+    "R&B / Soul & Funk": {
+        "count": 1,
+        "clean": "r&b"
+    },
+    "Rap/Hip Hop / Pop": {
+        "count": 3,
+        "clean": "hip hop"
+    },
+    "Alternative / Jazz / Pop / Rock / R&B / Contemporary Soul / Soul & Funk": {
+        "count": 1,
+        "clean": "jazz"
+    },
+    "Rock / Rock & Roll/Rockabilly": {
+        "count": 1,
+        "clean": "rock"
+    }
+}
