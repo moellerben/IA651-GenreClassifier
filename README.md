@@ -11,7 +11,7 @@ In order to classify the audio data, we took the approach of converting audio to
 
 Since using every sample of every song proved to be way too much data, we opted to take just 5 1-second long clips from each song. We also created a second data file containing 2-second long clips to see how it impacts the accuracy of the model. Since the sample rate and number of frequency bins in the fast Fourier transform are consistent, the dimensionality of each clip is also consistent (for each clip duration).
 
-The label for this process was taken directly from the "genre" metadata field within each file. Audio files that did not have any content in the "genre" tag were ignored. Many publishers and artists have different names for similar genres, so we created a mapping from each genre name appearing in the song tags to a consistent set of 10 genre names. The final dataset contains 8,669 songs with 5 clips each for a total of 43,345 clips.
+The label for this process was taken directly from the "genre" metadata field within each file. Audio files that did not have any content in the "genre" tag were ignored. Many publishers and artists have different names for similar genres, so we created a mapping from each genre name appearing in the song tags to a consistent set of 10 genre names. The final dataset contains 8,669 songs with 5 clips each for a total of 43,345 clips. Each clip is stored as an image in a directory structure which indicates duration, train/test, and class.
 
 ## ML Techniques
 

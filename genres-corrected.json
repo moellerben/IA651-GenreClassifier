@@ -61,7 +61,7 @@
     },
     "Classical": {
         "count": 13,
-        "clean": "classical"
+        "clean": "skip"
     },
     "Dance": {
         "count": 690,
@@ -109,11 +109,11 @@
     },
     "Soul & Funk": {
         "count": 23,
-        "clean": "funk/soul"
+        "clean": "funk&soul"
     },
     "Contemporary Soul": {
         "count": 5,
-        "clean": "funk/soul"
+        "clean": "funk&soul"
     },
     "Kids": {
         "count": 8,
@@ -121,7 +121,7 @@
     },
     "Disco": {
         "count": 67,
-        "clean": "funk/soul"
+        "clean": "funk&soul"
     },
     "Musicals": {
         "count": 6,
@@ -233,11 +233,11 @@
     },
     "Soul And R&B": {
         "count": 1,
-        "clean": "funk/soul"
+        "clean": "funk&soul"
     },
     "Soul and R&B": {
         "count": 15,
-        "clean": "funk/soul"
+        "clean": "funk&soul"
     },
     "0": {
         "count": 23,
@@ -325,7 +325,7 @@
     },
     "Jazz / Soul & Funk": {
         "count": 14,
-        "clean": "funk/soul"
+        "clean": "funk&soul"
     },
     "Jazz / Pop / Rock": {
         "count": 1,
