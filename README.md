@@ -17,7 +17,9 @@ The label for this process was taken directly from the "genre" metadata field wi
 Initially, our plan was to convert the images of the spectrographs into an array of intensities for each pixel, and then flatten that array into a row in a csv for each sample. The problem that we ran into for this was that in order to run the data through a CNN, we had to reshape the arrays in memory for every iteration of the CNN training and this produced many errors and was too taxing for us to run. We then pivoted to keeping the images as images and creating a folder structure storing all the images in folders based on music genre, and then setting up directories for where the training and testing data was. By doing this we were able to make the model training much less computationally difficult. For our model, we tested a number of different CNN architectures, as well as various parameters. We tried decreasing and increasing the batch size, increased the number of epochs but introduced the early stopping mechanic to save time where the difference in accuracy would be very small. As well, we added batch normalization between Conv2D steps to increase the speed of the model training. We also experimented with different optimizers but found adam to be the best performing option. In the end we went with the following model architecture:
 
 Model: "sequential_6"
+
 _________________________________________________________________
+
  Layer (type)                Output Shape              Param #   
 =================================================================
  conv2d_18 (Conv2D)          (None, 127, 96, 16)       160       
@@ -47,6 +49,7 @@ _________________________________________________________________
  dense_6 (Dense)             (None, 10)                194890    
                                                                  
 =================================================================
+
 Total params: 211,450
 Trainable params: 211,354
 Non-trainable params: 96
