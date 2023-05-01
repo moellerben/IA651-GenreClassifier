@@ -19,27 +19,6 @@ Initially, our plan was to convert the images of the spectrographs into an array
 Model: "sequential_6"
 Layer (type)   
 
-conv2d_18 (Conv2D)             
-                                                                 
-batch_normalization_12 (BatchNormalization)                                                
-                                                                 
-conv2d_19 (Conv2D)               
-                                                                 
-max_pooling2d_12 (MaxPooling2D)                                                            
-                                                                 
-conv2d_20 (Conv2D)              
-                                                                 
-batch_normalization_13 (BatchNormalization)                                                
-                                                                 
-conv2d_21 (Conv2D)               
-                                                                 
-max_pooling2d_13 (MaxPooling2D)                                                            
-                                                                 
-flatten_5 (Flatten)               
-                                                                 
-dropout_5 (Dropout)       
-                                                                 
-dense_6 (Dense)            
-                                                                 
+conv2d_18 (Conv2D) -> batch_normalization_12 (BatchNormalization) -> conv2d_19 (Conv2D) -> max_pooling2d_12 (MaxPooling2D) -> conv2d_20 (Conv2D) -> batch_normalization_13 (BatchNormalization) -> conv2d_21 (Conv2D) -> max_pooling2d_13 (MaxPooling2D) -> flatten_5 (Flatten) -> dropout_5 (Dropout) -> dense_6 (Dense) 
 
 ## Results
